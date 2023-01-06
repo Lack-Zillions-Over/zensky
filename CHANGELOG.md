@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/Lack-Zillions-Over/zensky/compare/v1.0.2...v1.0.3) (2023-01-06)
+
+
+### Docs
+
+* **disclaimer:** added important information in Readme! ([fe23966](https://github.com/Lack-Zillions-Over/zensky/commit/fe23966ac1a64f686c9519ccc8f362e6441af6b3))
+
 ### [1.0.2](https://github.com/Lack-Zillions-Over/zensky/compare/v1.0.1...v1.0.2) (2023-01-06)
 
 
