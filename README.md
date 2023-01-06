@@ -9,6 +9,10 @@
 [![MIT][license-badge]][license]
 [![Build Status - GitHub Actions][gha-badge]][gha-ci]
 
+## DISCLAIMER
+
+> By default, for pub/sub, Redis has a soft limit at 8 MB, and a hard limit at 32 MB, per connection buffer. If the output buffer reaches the hard limit, or if it remains between the soft and hard limit for more than 60 seconds, the connection with the slow subscriber will be closed.
+
 ## Installation
 
 ```bash
