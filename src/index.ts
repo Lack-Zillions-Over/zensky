@@ -1,1 +1,1 @@
-export { default as Zensky } from './constants/zensky';
+export { default as Zensky } from './constants';
